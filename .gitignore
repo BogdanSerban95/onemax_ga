@@ -1,0 +1,9 @@
+*.csv
+*.pdf
+*.docx
+*.zip
+
+/.idea
+/__pycache__
+/backup
+/niso1-bas782
